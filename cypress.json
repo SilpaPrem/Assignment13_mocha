@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://petstore.octoperf.com/actions/Catalog.action/",
+  "reporter": "cypress-mochawesome-reporter",
+  "projectId": "vbw24h",
+  "testFiles": "**/*.spec.js"
+}
